@@ -1,0 +1,10 @@
+Meta
+doc
+issues
+.Rproj.user
+.Rhistory
+.RData
+inst/doc
+temp.R
+tags
+README.html
